@@ -1,5 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Caudex&subset=greek,latin);
-body { text-align: center; }
+html { height: 100%;}
+body { text-align: center; height: 100%}
 h1 { font-family: 'Caudex', Arial, serif; font-weight: 400; }
 h2 { font-family: 'Caudex', Arial, serif; font-weight: 400; }
 h3 { font-family: 'Caudex', Arial, serif; font-weight: 400; }
+#footer {position: absolute;
+    bottom: 15px;
+    width: 100%;
+    font-family: monospace;}
